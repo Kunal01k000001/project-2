@@ -1,0 +1,18 @@
+@media only screen and (max-width:575px) {
+    .mono-nav {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+    }
+    .mono-nav nav{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        
+    }
+    .navbar {
+        display: none;
+    }
+}
